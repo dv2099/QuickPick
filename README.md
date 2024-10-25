@@ -1,11 +1,10 @@
-## QuickPick - UberEats Clone
+## QuickPick
 
-QuickPick is a full-featured UberEats clone app template in Java/Kotlin for Android, iOS, Desktop & Web. It helps to build an elaborate cross-platform food delivery app such as UberEats, Foodpanda, QuickPickHub etc using the new CodeRad tools.
+QuickPick is a full-featured app in Java/Kotlin for Android, iOS, Desktop & Web. It helps to build an elaborate cross-platform food delivery app such as UberEats, Foodpanda, QuickPickHub etc using the new CodeRad tools.
 
 <img src="https://sergeycodenameone.github.io/uber-eats-clone-banner.jpg" width="600"></img>
 
-This app was designed as a proof of concept for the [CodeRAD library](https://github.com/shannah/CodeRAD), which facilitates the development of rich, reusable UI components for Codename One.  It contains everything you should need to build a rich and reusable app with the Rapid application development principles.
-
+The QuickOrder project is focused on reducing wait times and enhancing customer convenience by allowing users to place food orders in advance and choose a specific pickup time.
 ## Features
 
 - Light/Dark mode
